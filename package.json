@@ -1,0 +1,9 @@
+{
+  "name": "portal-reservas-fdsi",
+  "version": "1.0.0",
+  "description": "App vulnerable para Lab 5",
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.15"
+  }
+}
